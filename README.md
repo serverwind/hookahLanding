@@ -2,5 +2,5 @@
 
 CSS Template for HOOKAH Network site. First time used SASS.
 
-Live: https://lestrangeqq.github.io/hookahLanding/
+Live: https://serverwind.github.io/hookahLanding/
 
